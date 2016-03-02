@@ -1,0 +1,6 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\gitpractice2\gitpractice2\bin\Debug\gitpractice2.exe.config
+c:\users\wecancodeit\documents\visual studio 2015\Projects\gitpractice2\gitpractice2\bin\Debug\gitpractice2.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\gitpractice2\gitpractice2\bin\Debug\gitpractice2.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\gitpractice2\gitpractice2\obj\Debug\gitpractice2.csprojResolveAssemblyReference.cache
+c:\users\wecancodeit\documents\visual studio 2015\Projects\gitpractice2\gitpractice2\obj\Debug\gitpractice2.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\gitpractice2\gitpractice2\obj\Debug\gitpractice2.pdb
